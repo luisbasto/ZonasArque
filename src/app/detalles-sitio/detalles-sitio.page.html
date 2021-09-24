@@ -11,7 +11,7 @@
   <ion-card>
     <ion-card-header> {{ name }}</ion-card-header>
     <ion-card-content>
-      <img *ngIf="image" [src]="['assets/img/headers/'+image]" />
+      <img *ngIf="image" [src]="['assets/img/headers/'+image]" [alt]="['image']"/>
       <p> {{ data }} </p>
     </ion-card-content>
   </ion-card>
