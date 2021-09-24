@@ -1,0 +1,227 @@
+[
+    {
+        "id": 0,
+        "name": "Acanceh",
+        "lat": 20.81,
+        "long": -89.47,
+        "image": "Acanceh.jpg",
+        "state": "Yucatan",
+        "data": "Uno de los principales centros del norte de la península de Yucatán, posee dos magníficas estructuras: La Pirámide y el Palacio de los Estucos, cuyo friso ornamentado con animales habla de una posible relación con Teotihuacán."
+    },
+    {
+        "id": 1,
+        "name": "Acozac",
+        "lat": 19.33,
+        "long": -98.88,
+        "image": "Acozac.jpg",
+        "state": "Estado de México",
+        "data": "Conocido antiguamente como Ixtapaluca Viejo, este importante centro ceremonial de la cuenca del Valle de México aparece mencionado en el Códice Xólotl."
+    },
+    {
+        "id": 2,
+        "name": "Alta Vista",
+        "lat": 23.47,
+        "long": -103.88,
+        "image": "AltaVista.jpg",
+        "state": "Zacatecas",
+        "data": "Uno de los centros ceremoniales más importantes del norte de Mesoamérica. Su orientación permite observar el desplazamiento anual del sol y, como Chichén Itzá, atrae visitantes en el equinoccio de primavera."
+    },
+    {
+        "id": 3,
+        "name": "Balamkú",
+        "lat": 18.55,
+        "long": -89.94,
+        "image": "Balamku.jpg",
+        "state": "Campeche",
+        "data": "Enclavado en la selva campechana, cuenta con tres grupos arquitectónicos. El friso de estuco modelado y policromado, ubicado en el Grupo Central, es único en el área maya y una prueba de la maestría artística de sus antiguos pobladores."
+    },
+    {
+        "id": 4,
+        "name": "Bocana del Río Copalita",
+        "lat": 15.79,
+        "long": -96.056,
+        "image": "Bocana.jpg",
+        "state": "Oaxaca",
+        "data": "Muy cerca de Bahías de Huatulco, este sitio fue un centro ceremonial. Está ubicado sobre unas lomas próximas a los acantilados de la costa oaxaqueña, dentro del Parque Ecoarqueológico Copalita, lo que permite además admirar la naturaleza."
+    },
+    {
+        "id": 5,
+        "name": "Bonampak",
+        "lat": 44.35,
+        "long": -68.21,
+        "image": "Bonampak.jpg",
+        "state": "Chiapas",
+        "data": "Arropado por la Selva Lacandona, Bonampak es famoso por sus extraordinarios murales, donde se reproducen escenas de guerra, pago de tributos y captura de prisioneros para el sacrificio."
+    },
+    {
+        "id": 6,
+        "name": "Calakmul",
+        "lat": 18.11,
+        "long": -89.82,
+        "image": "Calakmul.jpg",
+        "state": "Campeche",
+        "data": "Es una de las mayores ciudades del mundo maya; en ella se han encontrado más de 120 estelas diseminadas entre estructuras y pirámides de grandes dimensiones. Se levanta en la segunda reserva natural más grande de América, que fue inscrita por la UNESCO como Patrimonio Mixto de la Humanidad en 2014."
+    },
+    {
+        "id": 7,
+        "name": "Cañada de la Virgen",
+        "lat": 20.85,
+        "long": -100.93,
+        "image": "Caniada.jpg",
+        "state": "Guanajuato",
+        "data": "Fue sede de un dominio religioso y calendárico para los sistemas agrícolas y rutas de comercio. Sus construcciones principales se concibieron para observar el cielo, como la Casa de los Trece Cielos y la Casa de la Noche más Larga, relacionada con el solsticio de invierno."
+    },
+    {
+        "id": 8,
+        "name": "Cantona",
+        "lat": 19.55,
+        "long": -97.49,
+        "image": "Cantona.jpg",
+        "state": "Puebla",
+        "data": "Esta deslumbrante urbe prehispánica fortificada controló la ruta comercial entre el Altiplano y el Golfo de México. Todo en ella causa admiración: la acrópolis, plazas, barrios, alrededor de 4,000 calles interconectadas y numerosos juegos de pelota. Sus hábiles artesanos trabajaron la obsidiana."
+    },
+    {
+        "id": 9,
+        "name": "Caracol - Punta Sur",
+        "lat": 28.28,
+        "long": -86.98,
+        "image": "Caracol.jpg",
+        "state": "Quintana Roo",
+        "data": "En la mayor reserva ecológica de la isla de Cozumel, en el Caribe mexicano, se encuentra un templo cuyo techo tiene un remate en forma de caracol, ornamentado con cuatro hileras de caracoles naturales empotrados en el estuco. Esta decoración, única en la zona, hace muy recomendable su visita."
+    },
+    {
+        "id": 10,
+        "name": "Castillo de Teayo",
+        "lat": 20.74,
+        "long": -97.65,
+        "image": "Castillo.jpg",
+        "state": "Veracruz",
+        "data": "Antigua población huasteca, y uno de los sitios más importantes del Golfo de México, sus restos materiales reflejan las influencias culturales de mayas, toltecas y mexicas que recibió a lo largo del tiempo. Tiene una magnífica pirámide, que remata con un templo."
+    },
+    {
+        "id": 11,
+        "name": "Cempoala",
+        "lat": 19.44,
+        "long": -96.40,
+        "image": "Cempoala.jpg",
+        "state": "Veracruz",
+        "data": "Poderosa capital totonaca, dominó gran parte del actual estado de Veracruz y el norte de Puebla. Templos, palacios, plazas y fortificaciones dan cuenta de su importancia como centro político-religioso. Sometida por el imperio mexica, se alió con Hernán Cortés para derrotar a Moctezuma."
+    },
+    {
+        "id": 12,
+        "name": "Cerro de la Estrella",
+        "lat": 19.34,
+        "long": -99.10,
+        "image": "Cerro.jpg",
+        "state": "Ciudad de México",
+        "data": "Habitado desde épocas muy tempranas, cobró relevancia porque ahí se realizaba la ceremonia del Fuego Nuevo, con la que se evitaba que el sol muriera. Se llevaba a cabo cada 52 años y se celebraron cuatro (en 1351, 1403, 1455 y 1507). La caída de Tenochtitlan impidió que la quinta pudiera efectuarse."
+    },
+    {
+        "id": 13,
+        "name": "Chacchoben",
+        "lat": 44.35,
+        "long": -68.21,
+        "image": "Chacchoben.jpg",
+        "state": "Quintana Roo",
+        "data": "La ciudad maya más considerable en la zona de los lagos del actual Quintana Roo. Los caseríos del siglo III dieron lugar a construcciones imponentes que hoy pueden apreciarse, sobre todo de la segunda ocupación, a partir del siglo XIII. En su cima se recuperó gran cantidad de incensarios retrato."
+    },
+    {
+        "id": 14,
+        "name": "Chiapa de Corzo",
+        "lat": 16.75,
+        "long": -93.05,
+        "image": "Chiapa.jpg",
+        "state": "Chiapas",
+        "data": "En un pasado remoto comenzó como aldea agrícola y se convirtió en el centro ceremonial mixe-zoque más importante de la ribera del Grijalva. Sus terrazas, plazas y construcciones lo demuestran, y también la multitud de tumbas con ofrendas y la ornamentación de los templos con fina piedra caliza."
+    },
+    {
+        "id": 15,
+        "name": "Chichén Itzá",
+        "lat": 20.67,
+        "long": -88.57,
+        "image": "Chichen.jpg",
+        "state": "Yucatan",
+        "data": "En los dos equinoccios, la sombra de Kukulkán, la serpiente, desciende de su templo para fertilizar la tierra, mientras el jaguar rojo, oculto en el Templo de los Guerreros, hace brillar sus manchas de jade. Así es esta antigua capital, Patrimonio de la Humanidad."
+    },
+    {
+        "id": 16,
+        "name": "Chimalhuacán",
+        "lat": 19.41,
+        "long": -98.99,
+        "image": "Chimalhuacan.jpg",
+        "state": "Estado de México",
+        "data": "Hace siete siglos y medio, tres señores chichimecas llegaron a Chimalhuacán (abandonado desde la caída de Tula) y refundaron allí una gran capital acolhua. En testimonio dejaron el Tecpan, el soberbio palacio de su tlatoani, y una multitud de excelentes esculturas, que eran su ocupación principal."
+    },
+    {
+        "id": 17,
+        "name": "Chinkultic",
+        "lat": 16.12,
+        "long": -91.78,
+        "image": "Chinkultic.jpg",
+        "state": "Chiapas",
+        "data": "Gran ciudad lacustre de los mayas antiguos, muy cerca de los límites con Guatemala y asentada sobre colinas irregulares a las que se adaptan sabiamente los edificios. Tiene un extenso juego de pelota y la Plataforma de las Lajas, construida con los bloques de piedra cortada más grandes de toda Mesoamérica."
+    },
+    {
+        "id": 18,
+        "name": "Coatetelco",
+        "lat": 18.73,
+        "long": -99.34,
+        "image": "Coatetelco.jpg",
+        "state": "Morelos",
+        "data": "Esta ciudad dependiente de Tula tuvo una gran relevancia comercial y religiosa. Al caer ésta en el año 1000, tomó su lugar en el oriente del actual estado de Morelos."
+    },
+    {
+        "id": 19,
+        "name": "Cueva de la Olla",
+        "lat": 30.15,
+        "long": -108.32,
+        "image": "Cueva.jpg",
+        "state": "Chihuahua",
+        "data": "Impresionante vestigio de una ocupación que, en la zona, se remonta a 5,500 años a.C., el más antiguo de Aridamérica y de todo México. Sobresale el gran granero comunal en forma de vasija, un prodigio de la conservación, con estructura de hojas secas retorcidas recubiertas de barro."
+    },
+    {
+        "id": 20,
+        "name": "Dzibilchaltún",
+        "lat": 21.09,
+        "long": -89.59,
+        "image": "Dzibilchaltun.jpg",
+        "state": "Yucatan",
+        "data": "Su Templo de las Siete Muñecas atrae cientos de visitantes en el equinoccio de primavera y otoño, cuando el sol atraviesa el edificio y brilla en su puerta. También son de admirar las múltiples estelas bellamente talladas y su cenote abierto de aguas limpias."
+    },
+    {
+        "id": 21,
+        "name": "Ek' Balam",
+        "lat": 20.89,
+        "long": -88.13,
+        "image": "EkBalam.jpg",
+        "state": "Yucatan",
+        "data": "Murallas, murales, estelas, plazas y suntuosos palacios esperan al visitante, pero la mayor sorpresa es la riqueza arquitectónica y decorativa de sus edificios, como la Acrópolis, cuya entrada semeja la boca de un monstruo de enormes colmillos."
+    },
+    {
+        "id": 22,
+        "name": "El Cerrito",
+        "lat": 20.60,
+        "long": -100.39,
+        "image": "Cerrito.jpg",
+        "state": "Querétaro",
+        "data": "Fue un importante centro ceremonial que recibió la influencia de diversas culturas, especialmente de los toltecas. Fuentes franciscanas señalan que hacia 1632 los indígenas continuaban ofrendando a las deidades prehispánicas en los altares del sitio."
+    },
+    {
+        "id": 23,
+        "name": "El Tajín",
+        "lat": 20.43,
+        "long": -97.38,
+        "image": "Tajin.jpg",
+        "state": "Veracruz",
+        "data": "Este majestuoso sitio seduce por sus grandes espacios abiertos, juegos de pelota, relieves y, en especial, por la elegante Pirámide de los Nichos, pues tiene 365 de éstos, razón por la cual es objeto de estudio por parte de los especialistas en calendarios y cosmovisión mesoamericanos."
+    },
+    {
+        "id": 24,
+        "name": "Huamuxtitlán",
+        "lat": 20.43,
+        "long": -97.38,
+        "image": "Huamuxtitlan.jpg",
+        "state": "Guerrero",
+        "data": "Este majestuoso sitio seduce por sus grandes espacios abiertos, juegos de pelota, relieves y, en especial, por la elegante Pirámide de los Nichos, pues tiene 365 de éstos, razón por la cual es objeto de estudio por parte de los especialistas en calendarios y cosmovisión mesoamericanos."
+    }
+]
