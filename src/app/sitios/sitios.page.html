@@ -10,7 +10,7 @@
   <ion-list>
     <ion-item *ngFor="let sitio of sites" button [routerLink]="['/detalle/', sitio.id]" detail>
       <ion-thumbnail slot="start">
-        <img src="assets/img/thumbs/{{sitio.image}}" alt="" />
+        <img src="assets/img/thumbs/{{sitio.image}}" [alt]="['sitios.image']" />
       </ion-thumbnail>
       <ion-label>
         <h2 class="ion-text-capitalize">{{sitio.name}}</h2>
